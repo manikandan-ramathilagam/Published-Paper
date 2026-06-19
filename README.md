@@ -7,4 +7,4 @@ The vehicle setup uses an Arduino microcontroller integrated with vibration and 
 The ambulance setup utilizes an RF receiver linked to a NodeMCU microcontroller. Once the RF signal is intercepted, the NodeMCU retrieves the accident's GPS coordinates from the cloud and displays them on an LCD screen. The authors emphasize that relying on RF communication, rather than standard GSM or machine learning models, offers faster, reliable signal transmission without the need for extensive databases or complex processing.
 
 
-``` pip install -r requirements-rpi.txt ```
+
